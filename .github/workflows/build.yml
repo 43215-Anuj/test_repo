@@ -1,7 +1,7 @@
 name: Gen-AI build
 on:
   push:
-    branches: [develop]
+    branches: [main]
   
 
 jobs:
